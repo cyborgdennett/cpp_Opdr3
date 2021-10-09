@@ -8,3 +8,5 @@ extraction:
         command:
         - ./bootstrap
         - ./configure --with-modules="" --without-lua
+     index:
+        - all-solutions
